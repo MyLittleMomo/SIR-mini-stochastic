@@ -5,4 +5,4 @@ The basic SIR model code can be viewed from the file "SIR.mlx" you may change th
 \
 The code for the randomly generated graphs of the SIR model can be accessed through the code "ZhondelgenSTOCHsir.mlx". If you just want to the results you may view the animation file "1111.mp4"
 \
-The code for the stochastic differential equation is called "WienerEulerMaruyama.mlx". You can try to change the intensity of the noise, however, I would not recommend giving values more than 0.02
+The code for the stochastic differential equation is called "WienerEulerMaruyama.mlx". You can try to change the intensity of the noise, however, I would not recommend giving values more than 0.002
